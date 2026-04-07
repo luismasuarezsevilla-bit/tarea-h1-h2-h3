@@ -1,4 +1,4 @@
-# 📦 Sistema de Gestión de Inventario
+# 📦 Sistema de Gestión de Inventario H3
 
 Aplicación en Python para gestionar inventarios de productos con funcionalidades de almacenamiento en CSV.
 
